@@ -38,4 +38,12 @@
 <img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
 </picture><br><br>
 <p align="center">
-  <br>
+  </br>
+  </br>
+  <a href="https://twitter.com/">
+  <img align="right" alt="Ucen Haxor | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <a href="https://www.facebook.com/UcenGntng">
+  <img align="right" alt="Ucen Haxor | fb" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" />
+    <a href="https://youtube.com/@ucenhaxor">
+  <img align="right" alt="Ucen Haxor | Youtube" width="21px" src="https://www.svgrepo.com/show/13671/youtube.svg" />
+</a>
