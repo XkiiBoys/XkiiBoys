@@ -46,4 +46,6 @@
   <img align="right" alt="Ucen Haxor | fb" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" />
     <a href="https://youtube.com/@ucenhaxor">
   <img align="right" alt="Ucen Haxor | Youtube" width="21px" src="https://www.svgrepo.com/show/13671/youtube.svg" />
+  <a href="https://t.me/Xkii1337">
+   <img align="right" alt="Ucen Haxor | Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
